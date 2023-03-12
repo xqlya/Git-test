@@ -32,7 +32,7 @@ git push 	别名 master 				#(将master分支上的代码上传到github仓库�
 
 git add  hello.text   #把修改的某个文件增加暂存区中
 
-git commmit -m "第一次提交" hello.text   	#提交到本地仓库中，会有历史版本
+git commit -m "第一次提交" hello.text   	#提交到本地仓库中，会有历史版本
 
 ---------------------------------------------
 
